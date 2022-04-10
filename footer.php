@@ -1,5 +1,5 @@
 <footer class="container-fluid text-center"><!--div-->
-                  <img class="img-fluid" src="imgs/landscape.jpg" alt="landscape">
+                  <img class="img-fluid" src="ihttp://206.189.45.97/~mesh22/sub3/wp-content/uploads/2022/04/landscape.jpg" alt="landscape">
 
                 <div class="container"><!--div-->
                     <div class="row"><!--row-->
