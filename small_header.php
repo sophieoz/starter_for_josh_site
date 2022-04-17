@@ -32,7 +32,7 @@
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/images/favicon.ico">
 </head>
 <body>
-<header class="container-fluid" style="background-size:cover; height:40vh; background-image: url(<?php the_field('projectheaderbackgroundimage') ?>);">
+    <header class="container-fluid small-herobg">   <!--div for the main image the stretches to the edge of the page-->
     <nav class="navbar navbar-expand-md navbar-dark">
         <!--Brand-->
         <a class="navbar-brand" href="#"><span class="josh">JOSH</span> <span class="orange">WHITKIN</span></a>
@@ -62,7 +62,7 @@
       </nav>
     
         <div class="smallpage-tag"><!--div that holds th content in the middle of the page-->
-                  <h1 class="smallpage-title">"><?php the_field('projectsheadertitle'); ?></h1><!--the main tag line-->
+                  <!--<h1 > Games Design For the Future </h1>  the main tag line-->
               </div><!--container-->
               <?php wp_head(); ?>
           </header>
